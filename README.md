@@ -6,7 +6,7 @@ A browser-based dashboard that turns a player's Smite match history into interac
 
 > Data visualization course project (VIZPOD). Author: Filip Krpes.
 
-**Live demo:** https://krpesfilip.github.io/VIZPOD2/
+
 
 ## Features
 
@@ -26,7 +26,6 @@ A browser-based dashboard that turns a player's Smite match history into interac
 | Frontend | HTML, CSS, vanilla JavaScript |
 | Data | CSV (534 matches) |
 | Data preparation | Python, pandas, NumPy |
-| Hosting | GitHub Pages |
 
 ## Project structure
 
